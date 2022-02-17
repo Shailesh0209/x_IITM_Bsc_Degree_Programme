@@ -2,7 +2,7 @@
 YouTube Playlist of online Degree Programme by IITM
 
 
-## Foundation Level
+## `Foundation Level`
 1. [English 1](https://www.youtube.com/watch?v=hImZsXxKTcE&list=PLZ2ps__7DhBbf28nnkgAuFwaWjGtjaNck)
 
 2. [Mathematics for Data Science 1](https://www.youtube.com/watch?v=F9BZ5JsnjYM&list=PLZ2ps__7DhBZYDZo9A0pZ_i0xhstrk5cR)
@@ -20,11 +20,11 @@ YouTube Playlist of online Degree Programme by IITM
 8. [Programming in Python](https://www.youtube.com/watch?v=8ndsDXohLMQ&list=PLZ2ps__7DhBb2cXAu5PevO_mzgS3Fj3Fs)
 
 
-## Diploma Level 
+## `Diploma Level`
 
 
 
-### Diploma in Programming
+### `Diploma in Programming`
 1. [Programming, Data Structures and Algorithms using Python](https://www.youtube.com/watch?v=G-XixYjFNnA&list=PLZ2ps__7DhBaDccbZRgiU1sHX2gZrQ-XT)
 
 2. [Database Management Systems](https://www.youtube.com/watch?v=OMHbGm9SQuE&list=PLZ2ps__7DhBYc4jkUk_yQAjYEVFzVzhdU)
@@ -38,7 +38,7 @@ YouTube Playlist of online Degree Programme by IITM
 6. [Modern Application Development 2](https://www.youtube.com/watch?v=Szn0FoMfx10&list=PLZ2ps__7DhBY-wnDqzP1JQVaX3A-dfd1o)
 
 
-### Diploma in Data Science
+### `Diploma in Data Science`
 1. [Machine Learning Foundations](https://www.youtube.com/watch?v=zuS1WZQGhAs&list=PLZ2ps__7DhBammhVmBE9f5eezTj2kDfTN)
 
 2. [Business Data Management](https://www.youtube.com/watch?v=FexbZQph2uM&list=PLZ2ps__7DhBbJ-X4TNz-elPXEvBN30iZq)
