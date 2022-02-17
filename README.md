@@ -56,3 +56,17 @@ YouTube Playlist of online Degree Programme by IITM
 
 ## `Degree Level` 
 Not yet released, coming soon :)
+
+1. Operating Systems
+2. Computer Architectures
+3. Software Testing
+4. Software Engineering
+5. AI: Search Methods for Problem Solving
+6. Deep Learning
+7. Design Thinking
+8. Speech Technology
+9. Deep Learning in Practice
+10. Thematic ideas in Data Science
+11. Special topics in Machine Learning
+12. Computer Vision
+
