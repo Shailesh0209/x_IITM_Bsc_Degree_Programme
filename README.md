@@ -3,7 +3,7 @@
 YouTube Playlist of online Degree Programme by IITM.
 
 Most of YouTube Playlist are not in week wise order</br>
-YouTube Playlist in week-wise order: [YouTube Playlist Week-wise](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme/edit/main/README.md#shailxs-playlist)
+YouTube Playlist in week-wise order: [YouTube Playlist Week-wise](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#shailxs-playlist)
 
 #
 ## `Foundation Level`
