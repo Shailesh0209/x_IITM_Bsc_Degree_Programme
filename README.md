@@ -2,8 +2,21 @@
 # x_IITM_Bsc_Degree_Programme
 YouTube Playlist of online Degree Programme by IITM.
 
+
+### 1. [Foundation Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#foundation-level)
+### 2. [Diploma Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#diploma-level)
+### 3. [Degree Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#degree-level)
+#
+
+
 Most of YouTube Playlist are not in week wise order</br>
-YouTube Playlist in week-wise order: [YouTube Playlist Week-wise](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#shailxs-playlist)
+x's YouTube Playlist in week-wise order: [YouTube Playlist Week-wise](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#shailxs-playlist)
+
+
+### 1. [Foundation Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#foundation-level)
+### 2. [Diploma Level]()
+### 3. [Degree Level](url)
+#
 
 # not updated mine YouTube Playlist. it's todo list :)
 
