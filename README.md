@@ -5,6 +5,8 @@ YouTube Playlist of online Degree Programme by IITM.
 
 ### 1. [Foundation Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#foundation-level)
 ### 2. [Diploma Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#diploma-level)
+#### 2(a). [Diploma in Programming](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#diploma-in-programming)
+#### 2(b). [Dipoma in Data Science](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#diploma-in-data-science)
 ### 3. [Degree Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#degree-level)
 #
 
@@ -13,9 +15,11 @@ Most of YouTube Playlist are not in week wise order</br>
 x's YouTube Playlist in week-wise order: [YouTube Playlist Week-wise](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#shailxs-playlist)
 
 
-### 1. [Foundation Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#foundation-level)
-### 2. [Diploma Level]()
-### 3. [Degree Level](url)
+### 1. [Foundation Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#foundation-level-1)
+### 2. [Diploma Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#diploma-level-1)
+#### 2(a). [Diploma in Programming](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#diploma-in-programming-1)
+#### 2(b). [Diploma in Data Science](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#diploma-in-data-science)
+### 3. [Degree Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#degree-level-1)
 #
 
 # not updated mine YouTube Playlist. it's todo list :)
