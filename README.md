@@ -145,7 +145,7 @@ and also i have added some of related content video
 
 5. [Machine Learning Techniques](https://www.youtube.com/watch?v=Gh-xtsfJStA&list=PLyGVjd4KQp10Or3UfNXzQuIba1_eN91OO)
 
-6. [Machine Learning Practice](https://www.youtube.com/watch?v=6YOOkVZlYJc&list=PLyGVjd4KQp13HB4vo0f_ztrpR8dPrDNKP)
+6. [Machine Learning Practice](https://www.youtube.com/playlist?list=PLyGVjd4KQp13HB4vo0f_ztrpR8dPrDNKP)
 
 
 ## `Degree Level` 
