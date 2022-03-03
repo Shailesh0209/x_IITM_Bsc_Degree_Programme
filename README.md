@@ -22,7 +22,7 @@ x's YouTube Playlist in week-wise order: [YouTube Playlist Week-wise](https://gi
 ### 3. [Degree Level](https://github.com/Shailesh0209/x_IITM_Bsc_Degree_Programme#degree-level-1)
 #
 
-# not updated mine YouTube Playlist. it's todo list :)
+<!-- # not updated mine YouTube Playlist. it's todo list :) -->
 
 #
 ## `Foundation Level`
